@@ -1,0 +1,12 @@
+{
+  "name": "Start on Heroku: Go",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "golang",
+    "go",
+    "sample",
+    "example"
+  ],
+  "website": "https://github.com/naoGit-taka/golang",
+  "repository": "https://github.com/naoGit-taka/golang"
+}
